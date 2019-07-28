@@ -1,1 +1,2 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+# Basic geocoding example
+-using nominatim as geocoding provider, which uses OpenStreetMap's data. Free plan is limited to 1 request per second.
